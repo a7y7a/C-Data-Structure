@@ -1,0 +1,10 @@
+﻿  BinaryTree.c
+D:\zero\w\c\BinaryTree\BinaryTree\BinaryTree.c(64,14): warning C4133: “函数”: 从“QNode *”到“Queue *”的类型不兼容
+D:\zero\w\c\BinaryTree\BinaryTree\BinaryTree.c(67,15): warning C4133: “函数”: 从“QNode *”到“Queue *”的类型不兼容
+D:\zero\w\c\BinaryTree\BinaryTree\BinaryTree.c(69,23): warning C4133: “函数”: 从“QNode *”到“Queue *”的类型不兼容
+D:\zero\w\c\BinaryTree\BinaryTree\BinaryTree.c(71,32): warning C4133: “函数”: 从“QNode *”到“Queue *”的类型不兼容
+D:\zero\w\c\BinaryTree\BinaryTree\BinaryTree.c(72,14): warning C4133: “函数”: 从“QNode *”到“Queue *”的类型不兼容
+D:\zero\w\c\BinaryTree\BinaryTree\BinaryTree.c(76,16): warning C4133: “函数”: 从“QNode *”到“Queue *”的类型不兼容
+D:\zero\w\c\BinaryTree\BinaryTree\BinaryTree.c(80,16): warning C4133: “函数”: 从“QNode *”到“Queue *”的类型不兼容
+D:\zero\w\c\BinaryTree\BinaryTree\BinaryTree.c(85,27): warning C4028: 形参 1 与声明不同
+  BinaryTree.vcxproj -> D:\zero\w\c\BinaryTree\x64\Debug\BinaryTree.exe
